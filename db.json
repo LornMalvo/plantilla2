@@ -1,19 +1,17 @@
 {
   "posts": [
     {
-       "id": 1,
-       "nombre": "Samuel",
-       "apellidos": "Garcia",
-       "email": "samunieto@gmail.com",
-       "telefono": 611148968
+      "id": 1,
+      "title": "Post 1"
     },
     {
       "id": 2,
-       "nombre": "Lucia",
-       "apellidos": "Marinas",
-       "email": "lumarinas@gmail.com",
-       "telefono": 678525825
+      "title": "Post 2"
     },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
     {
