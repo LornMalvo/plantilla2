@@ -1,11 +1,11 @@
 {
   "posts": [
     {
-      id: 1,
-      nombre: "Samuel",
-      apellidos: "Garcia",
-      email: "samunieto@gmail.com",
-      telefono: 611148968
+      "id": 1,
+      "nombre": "Samuel",
+      "apellidos": "Garcia",
+      "email": "samunieto@gmail.com",
+      "telefono": 611148968
     },
     {
       "id": 2,
