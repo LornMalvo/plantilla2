@@ -1,16 +1,16 @@
 {
   "posts": [
     {
-      "nombre": "Samuel",
-      "apellidos": "Garcia",
-      "email: "samunieto@gmail.com",
-      "telefono": 611148968
+       nombre: "Samuel",
+       apellidos: "Garcia",
+       email: "samunieto@gmail.com",
+       telefono: 611148968
     },
     {
-      "nombre": "Lucia",
-      "apellidos": "Marinas",
-      "email: "lumarinas@gmail.com",
-      "telefono": 678525825
+       nombre: "Lucia",
+       apellidos: "Marinas",
+       email: "lumarinas@gmail.com",
+       telefono: 678525825
     },
   ],
   "comments": [
