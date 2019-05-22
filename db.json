@@ -4,13 +4,13 @@
       "nombre": "Samuel",
       "apellidos": "Garcia",
       "email: "samunieto@gmail.com",
-      "telefono":611148968
+      "telefono": 611148968
     },
     {
-     "nombre": "Lucia",
+      "nombre": "Lucia",
       "apellidos": "Marinas",
       "email: "lumarinas@gmail.com",
-      "telefono":678525825
+      "telefono": 678525825
     },
   ],
   "comments": [
